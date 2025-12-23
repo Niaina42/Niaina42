@@ -54,15 +54,7 @@
 
 ---
 
-## 🧬 Architecture de référence (Developer View)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashishps1/awesome-system-design-resources/master/images/system-design-architecture.png" />
-</p>
-
-<p align="center">
-  <em>Architecture moderne Web & Mobile — Frontend, API, Services et Base de données</em>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 ---
 
@@ -71,9 +63,10 @@
 ```mermaid
 flowchart LR
     BAC[Baccalauréat Scientifique] --> LIC[Licence Informatique & Télécom]
-    LIC --> MASTER[Master I Génie Logiciel & IA] --> MASTER[Master II Génie Logiciel & IA]
+    LIC --> MASTER[Master I Génie Logiciel & IA] 
     MASTER --> HACK[Hackathons & Compétitions]
-    HACK --> AUTO[Auto-formation continue]
+    HACK --> MASTERII[Master II Génie Logiciel & IA]
+    MASTERII --> AUTO[Auto-formation continue]
 ```
 
 ---
