@@ -53,8 +53,9 @@
 </p>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<center>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1200">
+</center>
 
 ---
 
@@ -84,15 +85,15 @@ flowchart LR
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiainaChristopher&show_icons=true&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=7dd3fc&text_color=e5e7eb" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Niaina42&show_icons=true&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=7dd3fc&text_color=e5e7eb" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiainaChristopher&hide_border=true&theme=tokyonight&ring=22d3ee&fire=7dd3fc&currStreakLabel=7dd3fc" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niaina42&hide_border=true&theme=tokyonight&ring=22d3ee&fire=7dd3fc&currStreakLabel=7dd3fc" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiainaChristopher&bg_color=020617&color=22d3ee&line=7dd3fc&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niaina42&bg_color=020617&color=22d3ee&line=7dd3fc&point=ffffff&hide_border=true" />
 </p>
 
 ---
