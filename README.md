@@ -1,16 +1,82 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=200&section=header&text=Niaina%20Christopher&fontSize=40&fontColor=22d3ee&animation=fadeIn" />
+</p>
 
-<!--
-**Niaina42/Niaina42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Fullstack+Web+%26+Mobile+Developer;Neon+%2F+Glassmorphism+Design;React+Native+%7C+Flutter+%7C+Node.js;AI+%26+Software+Engineering" />
+</p>
 
-Here are some ideas to get you started:
+<!-- ===================== PROFILE ===================== -->
+## 🧠 Profil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
++ Développeur Fullstack Web & Mobile
++ Passionné par les architectures modernes, l’IA et l’automatisation
++ Approche orientée performance, UX et scalabilité
+📍 Antananarivo, Madagascar
+
+<!-- ===================== STACK ===================== -->
+🧊 Stack technique (Glassmorphism)
+💻 Langages
+<p> <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,c,cs,dart,ruby&theme=dark" /> </p>
+🌐 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap&theme=dark" /> </p>
+📱 Mobile
+<p> <img src="https://skillicons.dev/icons?i=react,flutter&theme=dark" /> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,django,laravel,graphql&theme=dark" /> </p>
+🗄️ Bases de données
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" /> </p>
+<!-- ===================== ARCHITECTURE ===================== -->
+🧬 Architecture de référence
+mermaid
+Copy code
+flowchart TD
+    UI[Glass UI / Mobile App] --> API[Neon API Layer]
+    API --> DB[(PostgreSQL / MySQL)]
+    API --> AI[AI Services]
+    API --> Auth[Auth & Security]
+<!-- ===================== WORKFLOW ===================== -->
+🤖 Workflow projet
+mermaid
+Copy code
+sequenceDiagram
+    participant User
+    participant UI
+    participant API
+    participant DB
+
+    User->>UI: Action utilisateur
+    UI->>API: Requête sécurisée
+    API->>DB: Lecture / Écriture
+    DB-->>API: Données
+    API-->>UI: Réponse optimisée
+<!-- ===================== ACHIEVEMENTS ===================== -->
+🏆 Achievements & Hackathons
+🥇 ZahaGeek 2024
+🥇 WeeklyDev ISPM 2023
+🥉 BattleDev 2024
+❤️ WebCup 2024
+❤️ RedShalk 2024
+
+<!-- ===================== ANALYTICS ===================== -->
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NiainaChristopher&show_icons=true&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=7dd3fc&text_color=e5e7eb" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiainaChristopher&hide_border=true&theme=tokyonight&ring=22d3ee&fire=7dd3fc&currStreakLabel=7dd3fc" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiainaChristopher&bg_color=020617&color=22d3ee&line=7dd3fc&point=ffffff&hide_border=true" /> </p>
+<!-- ===================== LANGUAGES ===================== -->
+🧠 Langages dominants
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiainaChristopher&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e5e7eb" /> </p>
+<!-- ===================== LANGUAGES SPOKEN ===================== -->
+🌍 Langues
+🇲🇬 Malagasy — Langue native
+
+🇫🇷 Français — Courant
+
+🇬🇧 Anglais — Basique
+
+<!-- ===================== INTERESTS ===================== -->
+🎯 Centres d’intérêt
+♟️ Échecs · 🎸 Guitare · 🎨 Dessin
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=120&section=footer" /> </p>
