@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Fullstack+Web+%26+Mobile+Developer;Neon+%2F+Glassmorphism+Design;React+Native+%7C+Flutter+%7C+Node.js;AI+%26+Software+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Fullstack+Web+%26+Mobile+Developer;React+Native+%7C+Flutter+%7C+Node.js;AI+%26+Software+Engineering" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧊 Stack technique (Glassmorphism)
+## 🧊 Stack technique
 
 ### 💻 Langages
 
@@ -54,32 +54,26 @@
 
 ---
 
-## 🧬 Architecture de référence
+## 🧬 Architecture de référence (Developer View)
 
-```mermaid
-flowchart TD
-    UI[Glass UI / Mobile App] --> API[Neon API Layer]
-    API --> DB[(PostgreSQL / MySQL)]
-    API --> AI[AI Services]
-    API --> Auth[Auth & Security]
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashishps1/awesome-system-design-resources/master/images/system-design-architecture.png" />
+</p>
+
+<p align="center">
+  <em>Architecture moderne Web & Mobile — Frontend, API, Services et Base de données</em>
+</p>
 
 ---
 
-## 🤖 Workflow projet
+## 🎓 Workflow – Études & Formations
 
 ```mermaid
-sequenceDiagram
-    participant User
-    participant UI
-    participant API
-    participant DB
-
-    User->>UI: Action utilisateur
-    UI->>API: Requête sécurisée
-    API->>DB: Lecture / Écriture
-    DB-->>API: Données
-    API-->>UI: Réponse optimisée
+flowchart LR
+    BAC[Baccalauréat Scientifique] --> LIC[Licence Informatique & Télécom]
+    LIC --> MASTER[Master I Génie Logiciel & IA] --> MASTER[Master II Génie Logiciel & IA]
+    MASTER --> HACK[Hackathons & Compétitions]
+    HACK --> AUTO[Auto-formation continue]
 ```
 
 ---
@@ -113,16 +107,8 @@ sequenceDiagram
 ## 🧠 Langages dominants
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiainaChristopher&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e5e7eb" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niaina42&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e5e7eb" />
 </p>
-
----
-
-## 🌍 Langues
-
-* 🇲🇬 Malagasy — Langue native
-* 🇫🇷 Français — Courant
-* 🇬🇧 Anglais — Basique
 
 ---
 
@@ -135,3 +121,4 @@ sequenceDiagram
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=120&section=footer" />
 </p>
+
