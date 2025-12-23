@@ -7,10 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Fullstack+Web+%26+Mobile+Developer;Neon+%2F+Glassmorphism+Design;React+Native+%7C+Flutter+%7C+Node.js;AI+%26+Software+Engineering" />
 </p>
 
-<!-- ===================== PROFILE ===================== -->
 ## 🧠 Profil
 
-```diff
 + Développeur Fullstack Web & Mobile
 + Passionné par les architectures modernes, l’IA et l’automatisation
 + Approche orientée performance, UX et scalabilité
@@ -28,7 +26,7 @@
 <p> <img src="https://skillicons.dev/icons?i=nodejs,django,laravel,graphql&theme=dark" /> </p>
 🗄️ Bases de données
 <p> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" /> </p>
-<!-- ===================== ARCHITECTURE ===================== -->
+
 🧬 Architecture de référence
 mermaid
 Copy code
